@@ -39,5 +39,5 @@ function setup() {
 function draw() {
   background(220);
   text("Press button to make a sound", 10, 10);
-  text("Slider adjusts feedback distortion", 10, 20);
+  text("Slider adjusts playback distortion", 10, 20);
 }
